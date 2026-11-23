@@ -459,7 +459,7 @@ MonoBehaviour:
   m_RenderingLayers: 1
   m_ShadowRenderingLayers: 1
 --- !u!4 &723825701 stripped
-Transform:
+Transform:р
   m_CorrespondingSourceObject: {fileID: 4764272704770204, guid: 58a1006d991559145a609aa1cc292f5b, type: 3}
   m_PrefabInstance: {fileID: 1442939044}
   m_PrefabAsset: {fileID: 0}
